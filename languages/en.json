@@ -1,0 +1,165 @@
+{
+    "Header": {
+        "header_link_1": "About me",
+        "header_link_2": "My services",
+        "header_link_3": "Text translation",
+        "header_link_4": "Reviews"
+    },
+
+    "HeroSection": {
+        "h1_main": "Hi! My name is Ksenia and I’m your personal teacher!",
+        "p1_main": "The main thing for me is the comfort of each student during the learning process. I currently teach English, French, Arabic and Turkish.",
+        "button1": "Sign up for a Turkish language intensive course",
+        "button2": "Contact me!"
+    },
+
+    "TurkishIntensive": {
+        "h2_main": "Registration for intensive Turkish language courses is now underway",
+        "h3_main": "Who will benefit from the course",
+        "li_1": "Those who want to move to Turkey or already live there",
+        "li_2": "Those who want to try something new ",
+        "li_3": "Those who want to get to know Turkish culture better",
+        "li_4": "Those who like to bargain or want to learn this art",
+        "li_5": "Those who are always busy and for whom individual lessons are not suitable",
+        "prices": "Prices",
+        "independent_tariff": {
+            "h1": "Tariff \"Independent\"",
+            "what's_included": "What’s included:",
+            "li_1": "Video lessons",
+            "li_2": "Online tasks on the gaming platform",
+            "li_3": "Additional materials",
+            "li_4": "Writing tasks",
+            "li_5": "Homework checking",
+            "li_6": "Feedback",
+            "li_7": "Certificate after completion of the course",
+            "li_8": "TWO individual lessons with me, 40 minutes each",
+            "li_9": "General call with tariff participants",
+            "price": "Price – 25$",
+            "button": "Apply"
+        },
+        "i_am_with_you_tariff": {
+            "h1": "Tariff \"I’m with you\"",
+            "what's_included": "what's included:",
+            "li_1": "Video lessons",
+            "li_2": "Online tasks on the gaming platform",
+            "li_3": "Additional materials",
+            "li_4": "Writing tasks",
+            "li_5": "Homework checking",
+            "li_6": "Feedback",
+            "li_7": "Certificate after completion of the intensive course",
+            "li_8": "TWO individual lessons with me, 40 minutes each",
+            "li_9": "General call with tariff participants",
+            "price": "Price – 55$",
+            "button": "Apply"
+        },
+        "h4_main": "A cool bonus for all participants: all materials remain yours forever!"
+    },
+
+    "Chat1": {
+        "p1": "What’s your teaching experience?",
+        "p2": "I’ve been teaching languages since 2017, taught more than 80 students.",
+        "p3": "Do you have any education?",
+        "p4": "I graduated from Saint-Petersburg State University, faculty of Oriental studies.",
+        "p5": "What are we going to do during the lessons?",
+        "p6": "In my lessons I provide a grammatical basis of the language, speaking practice and reading and translation practice. We also watch and analyze videos, excerpts from films, and listen to your favorite songs",
+        "p7": "Do all students have the same program or do you have an individual approach?",
+        "p8": "An individual program is developed for each student in accordance with their goals.",
+        "p9": "What languages do you teach?",
+        "p10": "I work with four languages: English, French, Arabic and Turkish, and will be happy to help you step by step to realize your dream of speaking any of them!",
+        "p11": "I wonder how much your lesson costs?",
+        "p12": "All prices and services can be viewed below 👇"
+    },
+
+    "Services": {
+        "personal_lessons": {
+            "h1_main": "Individual lessons",
+            "format": "Online only",
+            "60_min": "60 min – 25$",
+            "90_min": "90 min — 35$",
+            "p1_main": "Payment can also be made in any currency convenient for you at the current rate",
+            "available_languages": "Languages available for learning:",
+            "li_1": "English",
+            "li_2": "French",
+            "li_3": "Arabic",
+            "li_4": "Turkish"
+        },
+        "consultations_for_repetitors": {
+            "h1_main": "Consultation for teachers",
+            "duration": "Duration — 2 hours",
+            "price": "Price — 35$",
+            "p1_main": "As a bonus, you will receive a summary of the entire consultation and a checklist that contains and analyzes the most relevant materials that you can use in your classes.",
+            "p2_main": "During the consultation, we will discuss all the pressing questions that you may have at the beginning of your journey. The detailed plan can be viewed in the highlight stories \"КОНСУЛЬТАЦИЯ\" on Instagram."
+        },
+        "consultations_for_specific_request": {
+            "h1_main": "Consultation on specific request",
+            "duration": "Duration 1 hour — Cost 20$",
+            "p1_main": "We will analyze your questions and consider specific situations during the work process."
+        },
+        "telegram_with_specific_information": {
+            "h1_main": "Telegram channel with useful information",
+            "h2_main": "Click and join, it’s for free!",
+            "p1_main": "Here you can find a lot of text, audio, video materials and much more."
+        },
+        "check_list_with_games": {
+            "h1_main": "Card games checklist",
+            "button": "Checklist",
+            "h2_main": "Click, download and use!",
+            "price": "Price – for free"
+        },
+        "check_list_with_useful_materials": {
+            "h1_main": "Useful materials checklist",
+            "price": "Price — 6$",
+            "p1_main": "To purchase a checklist, write to me in private messages. It contains the most current and modern textbooks, manuals and other additional materials."
+        },
+        "telegram_with_books": {
+            "h1_main": "Telegram channel with different textbooks and workbooks and useful materials for your lessons",
+            "h2_main": "Access to the channel is foreve",
+            "price": "Price — 10$",
+            "p1_main": "To get a link to the channel, write to me in private messages.",
+            "p2_main": "Here you can find many popular textbooks and books in English and French, as well as my original lessons that you can apply in your work. Examples of textbooks on the channel (English file; Go Getter; Impact; Speakout; Kidsbox; Oxford phonics)"
+        },
+        "offline_lessons": {
+            "h1_main": "Offline lessons",
+            "price": "Price: 15$/lesson",
+            "h2_main": "Available languages: English, French, Turkish.",
+            "p1_main": "This lesson format is suitable for the busiest and those who sometimes have poor internet connection!",
+            "p2_main": "The essence of the format: we call each other, determine your goals, language level, deadlines. Based on this, I prescribe an individual program and select materials specifically for your request.",
+            "p3_main": "Advantage: you don’t need to choose a day for online meetings. You complete all the tasks yourself, then send them to me for review."
+        }
+    },
+
+    "Chat2": {
+        "p1": "What about text translation? Are you doing this too?",
+        "p2": "Sure! In addition to my main job – teaching, I have been translating for more than 7 years. I work with 5 languages: Russian, English, French, Arabic and Turkish. I make translations both from and into these languages."
+    },
+    "TranslationWork": {
+        "h1_main": "Text translation",
+        "h2_main": "The cost of 1 page of translation (1800 characters) is $7",
+        "price_1": "You can pay using Russian cards: Sberbank, Tinkoff.",
+        "price_2": "And foreign cards: Bank of Georgia, Freedom Finance, Kaspi kz, Bangkok bank",
+        "h3_main": "Translation topics:",
+        "li_1": "Technical translation",
+        "li_2": "Literary translation (books, essays, articles)",
+        "li_3": "Scientific articles",
+        "li_4": "Tutorials",
+        "li_5": "Cosmetic procedures, permanent makeup",
+        "li_6": "Medicine",
+        "examples": "Translation examples:",
+        "button_1": "Example 1",
+        "button_2": "Example 2",
+        "button_3": "Example 3",
+        "button_4": "Example 4",
+        "button_5": "Example 5",
+        "button_6": "Example 6"
+    },
+
+    "Chat3": {
+        "p1": "The prices are all clear, but what about the reviews?",
+        "p2": "Some of the reviews are presented below, and all the rest can be seen on my Instagram highlight stories \"ОТЗЫВЫ\""
+    },
+
+    "LocaleSwitcher": {
+        "label": "Change language",
+        "locale": "{locale, select, ru {RU} en {EN} other {Unknown}}"
+    }
+}
