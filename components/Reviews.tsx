@@ -70,12 +70,9 @@ const Reviews = () => {
     })
 
     return (
-        <>
-            <div
-                className='md:hidden max-w-[75%] md:max-w-[40%] mx-auto'
-                id='id4'
-            >
-                <Carousel autoPlay={false}>
+        <div id='id4'>
+            <div className='md:hidden max-w-[75%] md:max-w-[40%] mx-auto'>
+                <Carousel autoPlay={false} navButtonsAlwaysInvisible>
                     {reviews.map(data => (
                         <Image
                             key={data.id}
@@ -88,7 +85,7 @@ const Reviews = () => {
                 </Carousel>
             </div>
             <div className='hidden md:block'>
-                <div className='reviews' id='id4'>
+                <div className='reviews'>
                     <div className='reviews__flex'>
                         <div className='box-left'>
                             <Image src={review1} alt={''} />
@@ -113,7 +110,7 @@ const Reviews = () => {
                     </div>
                 </div>
             </div>
-        </>
+        </div>
     )
 }
 
