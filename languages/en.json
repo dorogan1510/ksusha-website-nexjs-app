@@ -74,8 +74,8 @@
         "personal_lessons": {
             "h1_main": "Individual lessons",
             "format": "Online only",
-            "60_min": "60 min – 25$",
-            "90_min": "90 min — 35$",
+            "60_min": "60 min – 30$",
+            "90_min": "90 min — 45$",
             "p1_main": "Payment can also be made in any currency convenient for you at the current rate",
             "available_languages": "Languages available for learning:",
             "li_1": "English",
@@ -120,7 +120,7 @@
         },
         "offline_lessons": {
             "h1_main": "Offline lessons",
-            "price": "Price: 15$/lesson",
+            "price": "Price: 18$/lesson",
             "h2_main": "Available languages: English, French, Turkish.",
             "p1_main": "This lesson format is suitable for the busiest and those who sometimes have poor internet connection!",
             "p2_main": "The essence of the format: we call each other, determine your goals, language level, deadlines. Based on this, I prescribe an individual program and select materials specifically for your request.",

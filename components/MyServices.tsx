@@ -167,7 +167,7 @@ const MyServices = (props: any) => {
                         <h3>{t('check_list_with_games.price')}</h3>
                     </section>
 
-                    <section className='section checklist-with-useful-stuff'>
+                    {/* <section className='section checklist-with-useful-stuff'>
                         <h2>{t('check_list_with_useful_materials.h1_main')}</h2>
                         <div className='checklist-with-useful-stuff__flex-container'>
                             <h3>
@@ -177,10 +177,10 @@ const MyServices = (props: any) => {
                                 {t('check_list_with_useful_materials.p1_main')}{' '}
                             </p>
                         </div>
-                    </section>
+                    </section> */}
                 </div>
 
-                <section className='section telegram-with-textbooks-and-materials'>
+                {/* <section className='section telegram-with-textbooks-and-materials'>
                     <h2>{t('telegram_with_books.h1_main')}</h2>
 
                     <h3>
@@ -190,7 +190,7 @@ const MyServices = (props: any) => {
 
                     <p>{t('telegram_with_books.p1_main')}</p>
                     <p>{t('telegram_with_books.p2_main')} </p>
-                </section>
+                </section> */}
             </div>
 
             <section className='section offline-lessons'>

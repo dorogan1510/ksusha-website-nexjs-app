@@ -1,4 +1,4 @@
-import { Raleway } from 'next/font/google'
+import localFont from 'next/font/local'
 import type { Metadata } from 'next'
 import '../styles/globals.scss'
 import '../styles/Header.scss'
@@ -21,9 +21,34 @@ export const metadata: Metadata = {
         'english language, french language, arabic language, turkish language, английский язык, турецкий язык, арабский язык, французский язык, онлайн курс по турецкому языку, интенсив по турецкому, выучить английский, выучить вранцузский, выучить арабский, выучить турецкий, morkoovochka, преподаватель английского, английский для начинающих, турецкий для начинающих, арабский для начинающих, французский для начинающих',
 }
 
-const raleway = Raleway({
-    weight: ['300', '400', '500', '700'],
-    subsets: ['latin', 'cyrillic'],
+// const raleway = Raleway({
+//     weight: ['300', '400', '500', '700'],
+//     subsets: ['latin', 'cyrillic'],
+// })
+
+const raleway = localFont({
+    src: [
+        {
+            path: '../fonts/Raleway-Light.ttf',
+            weight: '300',
+            style: 'normal',
+        },
+        {
+            path: '../fonts/Raleway-Regular.ttf',
+            weight: '400',
+            style: 'normal',
+        },
+        {
+            path: '../fonts/Raleway-SemiBold.ttf',
+            weight: '500',
+            style: 'normal',
+        },
+        {
+            path: '../fonts/Raleway-Bold.ttf',
+            weight: '700',
+            style: 'normal',
+        },
+    ],
 })
 
 export default function RootLayout({
